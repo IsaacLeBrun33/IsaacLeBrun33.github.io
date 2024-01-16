@@ -30,7 +30,7 @@ body {
 }
 
 .left-div {
-  width: 45%;
+  width: 30%;
   float: left;
 }
 
@@ -54,6 +54,7 @@ body {
 
 .footer {
   background-color: lightgreen;
+  clear: both;
 }
 
 h1,h2,h3 {
