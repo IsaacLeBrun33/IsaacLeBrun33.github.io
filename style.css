@@ -8,6 +8,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.departments {
+  font-weight: bold;
+}
+
 .selfportait {
   width: 250px;
   float: right;
