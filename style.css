@@ -9,7 +9,7 @@ body {
 }
 
 .selfportait {
-  width: 125px;
+  width: 200px;
   float: right;
 }
 
@@ -18,15 +18,15 @@ body {
   margin-left: 75px;
 }
 .space1 {
-  margin-right: 70px
+  margin-right: 475px
 }
 
 .space2 {
-  margin-right: 150px;
+  margin-right: 550px;
 }
 
 .space3 {
-  margin-right: 65px;
+  margin-right: 475px;
 }
 
 .left-div {
@@ -39,14 +39,18 @@ body {
   width: 60%;
 }
 
-.links {
-  margin-left: 60px;
+.links-header {
+  margin-left: 25px
 }
 
-.border {
+.border1 {
  border: 1px solid black;
- box-sizing: border-box;
-}
+  width: 70%;
+ }
+
+.border2 {
+ border: 1px solid black;
+ }
 
 .footer {
   background-color: lightgreen;
